@@ -1,4 +1,4 @@
-# Amitish-Capstone-Project---Airbnb-Tableau-Dashboard
+# Capstone-Project---Airbnb-Tableau-Dashboard
 Amitish/Capstone-Project---Airbnb-Tableau-Dashboard
 
 **Problem Statement**
